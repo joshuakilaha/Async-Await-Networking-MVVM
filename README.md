@@ -1,5 +1,5 @@
 # Async-Await-Networking-MVVM (AsyncImage)
-Using Async requests with AsyncImage on an application to be launched asynchronously.
+Using Async requests with AsyncImage SwiftUI 3 to be launched asynchronously.
 
 AsyncImage
 A view that asynchronously loads and displays an image.
